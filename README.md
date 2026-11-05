@@ -2,7 +2,7 @@
 
 A Flutter website for comparing published motorcycle horsepower and torque curves in desktop and mobile browsers. The project contains only the web platform.
 
-[Live app](https://moto.bendtrailmaps.com/) · [Source on GitHub](https://github.com/barrar/dynolab)
+[Live App at moto.bendtrailmaps.com](https://moto.bendtrailmaps.com/PcAMeK4EogHwBL8DCw)
 
 ## Documentation
 
