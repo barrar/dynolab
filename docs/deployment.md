@@ -23,7 +23,7 @@ From the project root:
 flutter build web --wasm --release --no-web-resources-cdn
 ```
 
-The last deployment used `/private/tmp/assetcapture-flutter-sdk/bin/flutter`. See [toolchain setup](development.md#toolchain) if `flutter` is unavailable.
+The current local SDK is `/Users/jeremiah/projects/flutter/bin/flutter`. See [toolchain setup](development.md#toolchain) if `flutter` is unavailable.
 
 ## 2. Prepare the upload
 

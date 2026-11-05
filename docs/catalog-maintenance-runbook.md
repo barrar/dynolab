@@ -8,7 +8,7 @@ Read [architecture](architecture.md), [project decisions](project-history.md), a
 
 Record the requested models, engine generations, markets, number of desired tune results, and any requested analysis range. For this task, the target was two aftermarket setups per family, with one or none acceptable when evidence was absent. A family-wide search outcome is required even when no curve can be added. An aftermarket setup can include exhaust, intake, cams, or displacement changes; list the complete hardware rather than crediting all gains to an ECU alone.
 
-Check repository status before editing and preserve unrelated work. This project originally had no `.git` directory; Git history begins with the November 5, 2026 GitHub publication. Locate a complete Flutter SDK; the temporary SDK path in [development](development.md#toolchain) is an environment detail, not an installation requirement.
+Check repository status before editing and preserve unrelated work. This project originally had no `.git` directory; Git history begins with the November 5, 2026 GitHub publication. Use the complete Flutter SDK described in [development](development.md#toolchain).
 
 ## 2. Search every family and keep an evidence log
 

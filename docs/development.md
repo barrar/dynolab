@@ -4,7 +4,7 @@
 
 The application targets **desktop and mobile websites only**. This checkout has no iOS, Android, macOS, or Windows application targets. Do not regenerate native platform scaffolding to make a web change.
 
-The development SDK inspected for these guides is Flutter **3.44.0 stable**, Dart **3.12.0**. `pubspec.yaml` requires Dart `^3.12.0`. Runtime dependencies are Flutter and `package:web`; development dependencies are `flutter_test` and `flutter_lints`. Python 3 is used for research import and the local release preview. Deployment additionally uses Node/npm and Wrangler 4.
+The development SDK is Flutter **3.47.9 stable**, Dart **3.13.7**, upgraded November 5, 2026. `pubspec.yaml` requires Dart `^3.13.0` and Flutter `>=3.47.9`. Runtime dependencies are Flutter and `package:web`; development dependencies are `flutter_test` and `flutter_lints`. Python 3 is used for research import and the local release preview. Connector deployment uses Node.js; see [deployment](deployment.md).
 
 On a normal machine:
 
@@ -16,14 +16,24 @@ flutter pub get
 
 Keep `pubspec.lock` with the application source so dependency resolution is reproducible. Review SDK or dependency upgrades as separate changes where practical. There is no checked-in Flutter version manager configuration, CI workflow, or pinned Wrangler package yet.
 
-On the original Mac, `/Users/jeremiah/projects/flutter` was missing SDK executables. Development used an isolated recovery copy at `/private/tmp/assetcapture-flutter-sdk`. If it still exists, its binaries can be used explicitly:
+The local SDK is installed at `/Users/jeremiah/projects/flutter`, with its `bin` directory added to `~/.zprofile`. New login shells resolve `flutter` and `dart` automatically. Explicit commands are:
 
 ```sh
-/private/tmp/assetcapture-flutter-sdk/bin/flutter --version
-/private/tmp/assetcapture-flutter-sdk/bin/dart --version
+/Users/jeremiah/projects/flutter/bin/flutter --version
+/Users/jeremiah/projects/flutter/bin/dart --version
 ```
 
-This is not a project setup step to reproduce on another machine. Install or locate a complete Flutter SDK if the temporary copy is gone. Do not replace the original SDK working tree blindly.
+The incomplete former SDK was preserved at `/Users/jeremiah/projects/flutter-incomplete-backup-20261105`. The old `/private/tmp/assetcapture-flutter-sdk` recovery copy is no longer used by this project. Install a normal complete SDK on another machine rather than depending on either temporary or backup folders.
+
+To refresh the stable SDK and packages in the future:
+
+```sh
+flutter upgrade
+flutter pub upgrade --major-versions
+flutter pub outdated
+```
+
+Keep the dependency lockfile. The November 5 upgrade updated seven packages, including `web` to 1.1.2. `material_color_utilities` 0.13.0 and `test_api` 0.7.12 remain constrained by Flutter itself; their newer registry versions cannot be selected with this stable SDK. Avoid overrides of those SDK constraints.
 
 ## Run and preview
 
