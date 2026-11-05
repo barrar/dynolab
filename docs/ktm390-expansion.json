@@ -1,0 +1,351 @@
+[
+  {
+    "make": "KTM",
+    "years": "2020 tested model",
+    "displacement": "373 cc (older engine generation)",
+    "configName": "Stock · 2020 Adventure · Cycle World",
+    "shortName": "2020 Adventure stock",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        7.8,
+        22.217
+      ],
+      [
+        3000,
+        9.9,
+        23.499
+      ],
+      [
+        3500,
+        12.4,
+        25.228
+      ],
+      [
+        4000,
+        14.2,
+        25.279
+      ],
+      [
+        4500,
+        15.6,
+        24.686
+      ],
+      [
+        5000,
+        17.8,
+        25.35
+      ],
+      [
+        5500,
+        21.3,
+        27.577
+      ],
+      [
+        6000,
+        23.7,
+        28.128
+      ],
+      [
+        6500,
+        26.3,
+        28.812
+      ],
+      [
+        6990,
+        31.0,
+        31.581
+      ],
+      [
+        7500,
+        30.2,
+        28.674
+      ],
+      [
+        8000,
+        33.6,
+        29.908
+      ],
+      [
+        8500,
+        36.3,
+        30.41
+      ],
+      [
+        8970,
+        37.5,
+        29.77
+      ],
+      [
+        9000,
+        37.5,
+        29.67
+      ],
+      [
+        9500,
+        36.9,
+        27.659
+      ],
+      [
+        10000,
+        36.1,
+        25.706
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/story/bikes/how-much-power-does-the-2020-ktm-390-adventure-make/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/UNS3LRGCFFCU3JIQTSNQ7MYZ6U.jpg",
+      "asset": "assets/charts/ktm-research-stock-2020-adventure.jpg",
+      "method": "Approximate power trace sampled from the published chart image. Torque is derived from sampled horsepower: N·m = hp × 7120.9092 / RPM. Linear interpolation between samples; no original dynamometer run file was available. Printed peak metadata is separate from chart samples.",
+      "caveat": "Independent in-house Dynojet 250i test published April 15, 2020. Approximate readings from a plotted image, not a raw data export. This is the older 373 cc Adventure, not the 399 cc 2025+ Adventure R."
+    },
+    "reportedPeaks": "37.46 hp @ 8,970 RPM · 23.23 lb-ft (31.50 N·m) @ 6,990 RPM",
+    "notes": "Stock 2020 390 Adventure. Chart peaks printed more precisely than the article’s rounded 37.5 hp / 23.2 lb-ft. Chart sampling uncertainty is approximately a few tenths of a horsepower. The sample at the power peak follows the printed peak rounded to one decimal place.",
+    "weightLb": 387,
+    "weightBasis": "Dirt Rider measured 387 lb wet with a full fuel load on the stock 2020 Adventure. This is a same-year/model weight reference, not a claim that this is the identical Cycle World dyno specimen.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/tests/2020-ktm-390-adventure-review/",
+    "measurementBasis": "Rear wheel · Dynojet 250i",
+    "hasCurve": true,
+    "hardwareQualified": false,
+    "sourceOnly": false,
+    "category": "KTM 390 research",
+    "selectionReason": "Additional KTM 390 platform dyno/configuration research; not a 2025+ 399 cc Adventure R test.",
+    "id": "ktm390-adventure-stock-cycleworld-2020",
+    "bikeId": "ktm-390-adventure-373",
+    "name": "390 Adventure · 373 cc"
+  },
+  {
+    "make": "KTM",
+    "years": "373 cc era; model year not stated; chart uploaded May 2019",
+    "displacement": "373 cc (older engine generation)",
+    "configName": "Rottweiler / Dynojet PCV · airbox lid + decat + muffler",
+    "shortName": "Rottweiler PCV + intake/exhaust",
+    "upgraded": true,
+    "parts": [
+      "Dynojet Power Commander V piggyback fuel controller",
+      "Rottweiler in-house performance map",
+      "Rottweiler airbox lid",
+      "Arrow decat mid-pipe",
+      "Open muffler with dB insert"
+    ],
+    "points": [
+      [
+        3500,
+        13.1,
+        26.653
+      ],
+      [
+        4000,
+        15.3,
+        27.237
+      ],
+      [
+        4500,
+        18.9,
+        29.908
+      ],
+      [
+        5000,
+        22.9,
+        32.614
+      ],
+      [
+        5500,
+        26.7,
+        34.569
+      ],
+      [
+        6000,
+        30.9,
+        36.673
+      ],
+      [
+        6500,
+        34.4,
+        37.686
+      ],
+      [
+        7000,
+        37.5,
+        38.148
+      ],
+      [
+        7500,
+        39.5,
+        37.503
+      ],
+      [
+        8000,
+        40.9,
+        36.406
+      ],
+      [
+        8500,
+        42.2,
+        35.353
+      ],
+      [
+        8773,
+        42.4,
+        34.415
+      ],
+      [
+        9000,
+        42.6,
+        33.706
+      ],
+      [
+        9500,
+        41.9,
+        31.407
+      ],
+      [
+        10000,
+        41.6,
+        29.623
+      ],
+      [
+        10100,
+        42.0,
+        29.612
+      ]
+    ],
+    "source": {
+      "publisher": "Rottweiler Performance",
+      "url": "https://shop.rottweilerperformance.com/duke-390-all-rott-perf-airbox-lid-de-cat-mid-pipe-muffler-db-insert-performance-map/",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-xk32d/images/stencil/1280x1280/products/931/6174/Screenshot_2019-05-21_17.55.47__44386.1558486816.png?c=2",
+      "asset": "assets/charts/ktm-research-rottweiler-duke390.png",
+      "method": "Approximate power trace sampled from the published chart image. Torque is derived from sampled horsepower: N·m = hp × 7120.9092 / RPM. Linear interpolation between samples; no original dynamometer run file was available. Printed peak metadata is separate from chart samples. The green full-hardware mapped trace is sampled.",
+      "caveat": "Primary vendor in-house Dynojet chart, SAE correction, smoothing 5. Model year is not specified; the chart asset was uploaded in 2019 and must not be represented as a 399 cc/Euro5b/Adventure R run. The red comparison is already decatted with aftermarket muffler; it is NOT a fully stock bike."
+    },
+    "reportedPeaks": "Green intake/exhaust/mapped trace ≈42.6 hp from chart. Printed 42.41 hp belongs to the BLUE stock-airbox mapped trace; printed 39.71 hp is the RED stock-airbox/stock-map trace.",
+    "notes": "Hardware-qualified intake + exhaust + fueling tune. Source explicitly describes the PCV map built on the vendor’s in-house dyno and lists the intake/exhaust hardware. All three plotted traces share decat and muffler + dB killer. Green has Rottweiler airbox lid + mapping; blue retains stock airbox lid + mapping; red retains stock airbox lid + stock mapping. The green trace has no printed maximum in the image, so its peak is an approximate chart reading. A Power Commander is a piggyback fuel controller, not an ECU replacement.",
+    "weightLb": 340,
+    "weightBasis": "Reference only: Rider magazine lists 340 lb wet for a stock 2015 Duke 390; actual tuned/tested bike was not weighed. Edit bike weight to match your build.",
+    "weightSourceUrl": "https://ridermagazine.com/2015-ktm-390-duke-road-test-review/",
+    "measurementBasis": "Rear wheel · Dynojet SAE",
+    "hasCurve": true,
+    "hardwareQualified": true,
+    "sourceOnly": false,
+    "category": "KTM 390 research",
+    "selectionReason": "Additional KTM 390 platform dyno/configuration research; not a 2025+ 399 cc Adventure R test.",
+    "id": "ktm390-duke-rottweiler-pcv-airbox-exhaust",
+    "bikeId": "ktm-390-duke-373",
+    "name": "390 Duke · 373 cc"
+  },
+  {
+    "make": "KTM",
+    "years": "2016 Duke tested March 15–16, 2016; product page up to 2017",
+    "displacement": "373 cc (older engine generation)",
+    "configName": "ECUWEST remap · 2016 Duke · source chart only",
+    "shortName": "ECUWEST · source chart only",
+    "upgraded": true,
+    "parts": [
+      "ECUWEST ECU remap",
+      "Exhaust/airbox modifications mentioned by source page; exact plotted-bike hardware uncertain"
+    ],
+    "points": [],
+    "source": {
+      "publisher": "ECUWEST",
+      "url": "https://www.ecuwest.com.au/ktm-rc390-duke-ecu-remapping/",
+      "imageUrl": "https://ecuwest.com.au/wp-content/uploads/2018/08/2015-KTM-RC390.jpg",
+      "asset": "assets/charts/ktm-research-ecuwest-2015-rc390.png",
+      "method": "Original corrected chassis-dyno chart retained for source review, but no RPM curve imported. The main x-axis is KPH and its secondary tacho RPM scale does not align with the tuned run’s printed peak RPM. A trustworthy tuned-run RPM conversion could not be established from this image.",
+      "caveat": "Chart identifies a 2016 KTM 390 DUKE despite its 2015-KTM-RC390 filename. Page copy says bikes have free-flow exhausts and airbox mods, but the specific chart header lists exhaust/induction/manifolds as STD. Exact fitted hardware is unconfirmed. The lower graph is explicitly estimated Dynojet power and is not imported. Tuned graphical peak versus secondary tacho RPM conflicts with printed peak metadata; no curve is synthesized."
+    },
+    "reportedPeaks": "Corrected Mainline chart: after 40.5 hp @ 9,346 RPM · 34 N·m @ 7,440 RPM; before 37.1 hp @ 9,305 RPM · 30 N·m @ 7,243 RPM",
+    "notes": "Primary Mainline DynoLog chassis-dyno report, test March 2016, correction .943 SAE J607. Main graph is corrected Power(HP)/Derived Torque(Nm); lower graph is estimated Dynojet power. Header says STD for hardware while page copy discusses modified bikes. Source-only because hardware and tuned-run RPM indexing are unresolved. This is not counted as a verified intake/exhaust combination kit.",
+    "weightLb": 340,
+    "weightBasis": "Reference only: Rider magazine lists 340 lb wet for a stock 2015 Duke 390; actual tuned/tested bike was not weighed. Edit bike weight to match your build.",
+    "weightSourceUrl": "https://ridermagazine.com/2015-ktm-390-duke-road-test-review/",
+    "measurementBasis": "Chassis dyno · Mainline corrected",
+    "hasCurve": false,
+    "hardwareQualified": false,
+    "sourceOnly": true,
+    "category": "KTM 390 research",
+    "selectionReason": "Additional KTM 390 platform dyno/configuration research; not a 2025+ 399 cc Adventure R test.",
+    "id": "ktm390-duke-ecuwest-remap-2016",
+    "bikeId": "ktm-390-duke-373",
+    "name": "390 Duke · 373 cc"
+  },
+  {
+    "make": "KTM",
+    "years": "Vendor lists 2015–2023 390 Duke",
+    "displacement": "373 cc (older engine generation)",
+    "configName": "BR-Performance Stage 2 · exhaust + sports filter · source only",
+    "shortName": "BR Stage 2 · no curve",
+    "upgraded": true,
+    "parts": [
+      "Tailored Stage 2 ECU remap",
+      "Full decat exhaust",
+      "Sports air filter"
+    ],
+    "points": [],
+    "source": {
+      "publisher": "BR-Performance Luxembourg",
+      "url": "https://www.br-performance.lu/en-lu/chiptuning/3817-bikes-quad/4169-ktm/11331-390/11913-2015-2023/14393-390-duke/?stage=19391",
+      "imageUrl": "",
+      "asset": "",
+      "method": "Verified primary vendor hardware-package description and indicative peak specifications only. No public RPM-indexed dyno chart/run file was found; points intentionally empty.",
+      "caveat": "Vendor calls the power/torque indications and says every remap is individually measured. No specific tested motorcycle, test date, correction standard or crank/wheel basis is published for these numbers. Do not synthesize a curve or plot the claimed gain."
+    },
+    "reportedPeaks": "Vendor indicative figures only: original 44 hp / 39 N·m; Stage 2 50 hp / 45 N·m. No RPM values or verified run supplied.",
+    "notes": "Hardware-qualified source-only kit. Primary Stage 2 list explicitly includes a full decat exhaust, sports air filter and engine tuning. This is a documented alternative kit, not a plotted measured result. Weight reference is the early 2015 Duke; later 373 cc Duke models differ.",
+    "weightLb": 340,
+    "weightBasis": "Reference only: Rider magazine lists 340 lb wet for a stock 2015 Duke 390; actual tuned/tested bike was not weighed. Edit bike weight to match your build.",
+    "weightSourceUrl": "https://ridermagazine.com/2015-ktm-390-duke-road-test-review/",
+    "measurementBasis": "Not stated · indicative vendor figures",
+    "hasCurve": false,
+    "hardwareQualified": true,
+    "sourceOnly": true,
+    "category": "KTM 390 research",
+    "selectionReason": "Additional KTM 390 platform dyno/configuration research; not a 2025+ 399 cc Adventure R test.",
+    "id": "ktm390-duke-brperformance-stage2",
+    "bikeId": "ktm-390-duke-373",
+    "name": "390 Duke · 373 cc"
+  },
+  {
+    "make": "KTM",
+    "years": "2016 KTM 390 in manufacturer demonstration",
+    "displacement": "373 cc (older engine generation)",
+    "configName": "Mantra Stage II Sport Plus · TBM intake + full exhaust · source only",
+    "shortName": "Mantra Stage II · no curve",
+    "upgraded": true,
+    "parts": [
+      "Mantra Racing Stage II Sport Plus ECU",
+      "TBM performance air filter",
+      "Intake de-restrictor plate",
+      "Mantra Racing full exhaust system"
+    ],
+    "points": [],
+    "source": {
+      "publisher": "Mantra Racing (manufacturer YouTube channel)",
+      "url": "https://www.youtube.com/watch?v=PMRd0UnwzZw",
+      "imageUrl": "",
+      "asset": "",
+      "method": "Manufacturer demonstration description identifies the 2016 bike and fitted ECU, air filter, de-restrictor plate and full exhaust. No accessible primary RPM-indexed dyno chart/run file was obtained; points intentionally empty.",
+      "caveat": "This is primary hardware evidence only. Manufacturer says dyno graphs are available on request. Secondary publications reproduce horsepower figures/graphs, but an original primary chart and its engine-versus-wheel basis were not independently recoverable; those numbers are not imported."
+    },
+    "reportedPeaks": "No verified primary dyno peaks imported.",
+    "notes": "Hardware-qualified source-only kit. Manufacturer demonstration lists the combination on a 2016 KTM390 and says standard gearing/wheels/tires, with no weight reduction except mirrors. No measured curve has been invented from advertising or acceleration performance.",
+    "weightLb": 340,
+    "weightBasis": "Reference only: Rider magazine lists 340 lb wet for a stock 2015 Duke 390; actual tuned/tested bike was not weighed. Edit bike weight to match your build.",
+    "weightSourceUrl": "https://ridermagazine.com/2015-ktm-390-duke-road-test-review/",
+    "measurementBasis": "Not stated · no primary dyno curve",
+    "hasCurve": false,
+    "hardwareQualified": true,
+    "sourceOnly": true,
+    "category": "KTM 390 research",
+    "selectionReason": "Additional KTM 390 platform dyno/configuration research; not a 2025+ 399 cc Adventure R test.",
+    "id": "ktm390-duke-mantra-stage2-sport-plus-2016",
+    "bikeId": "ktm-390-duke-373",
+    "name": "390 Duke · 373 cc"
+  }
+]

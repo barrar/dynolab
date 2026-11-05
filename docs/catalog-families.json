@@ -1,0 +1,165 @@
+{
+  "aliases": {
+    "ktm-390-duke-373": "ktm-390-adventure-373"
+  },
+  "families": {
+    "ktm-890-adventure-r": {
+      "name": "890",
+      "years": "2020\u20132026 references"
+    },
+    "bmw-r1300gs": {
+      "name": "R 1300"
+    },
+    "bmw-f900gs": {
+      "name": "F 900"
+    },
+    "honda-africa-twin-1100": {
+      "name": "Africa Twin 1100"
+    },
+    "suzuki-vstrom-800de": {
+      "name": "V-Strom 800"
+    },
+    "triumph-tiger-900-rally-pro": {
+      "name": "Tiger 900 \u00b7 2020\u201323"
+    },
+    "husqvarna-701-enduro": {
+      "name": "701",
+      "years": "2017\u20132023 test references"
+    },
+    "ktm-690-enduro": {
+      "name": "690",
+      "years": "2019\u20132023 test references"
+    },
+    "suzuki-drz4s": {
+      "name": "DR-Z4"
+    },
+    "suzuki-dr650": {
+      "name": "DR650"
+    },
+    "ktm-390-adventure-373": {
+      "name": "390 \u00b7 373 cc",
+      "years": "2015\u20132024 references"
+    }
+  },
+  "weights": [
+    {
+      "id": "ktm890-adventure",
+      "bikeId": "ktm-890-adventure-r",
+      "label": "Adventure \u00b7 2023",
+      "weightLb": 473,
+      "basis": "2023 Adventure: 473 lb claimed curb weight in Cycle News launch review. Mass preset only; dyno runs keep their tested model.",
+      "sourceUrl": "https://www.cyclenews.com/2022/12/article/2023-ktm-890-adventure-review/"
+    },
+    {
+      "id": "ktm890-r-oem2026",
+      "bikeId": "ktm-890-adventure-r",
+      "label": "Adventure R \u00b7 2026 OEM",
+      "weightLb": 473.99386369775,
+      "basis": "2026 Adventure R: KTM specifies 215 kg fully fueled. This mass preset does not turn an older run into a 2026 dyno test.",
+      "sourceUrl": "https://www.ktm.com/en-us/models/adventure/2026-ktm-890-adventurer/technical-specifications.html"
+    },
+    {
+      "id": "ktm890-duke-r",
+      "bikeId": "ktm-890-adventure-r",
+      "label": "Duke R \u00b7 2020 measured",
+      "weightLb": 406,
+      "basis": "2020 Duke R: Cycle World measured 406 lb wet. Duke and Adventure engine calibrations differ; select the matching tested run separately.",
+      "sourceUrl": "https://www.cycleworld.com/story/motorcycle-racing/2020-ktm-890-duke-r-first-ride-review/"
+    },
+    {
+      "id": "bmw-r1300-gsa",
+      "bikeId": "bmw-r1300gs",
+      "label": "GS Adventure \u00b7 OEM",
+      "weightLb": 593,
+      "basis": "BMW R 1300 GS Adventure: 593 lb road ready, standard equipment, operating fluids and at least 90% usable fuel capacity.",
+      "sourceUrl": "https://www.bmwmotorcycles.com/en/models/adventure/r1300gs-adventure/technicaldata.html"
+    },
+    {
+      "id": "bmw-f900-gsa",
+      "bikeId": "bmw-f900gs",
+      "label": "GS Adventure \u00b7 OEM",
+      "weightLb": 542,
+      "basis": "BMW F 900 GS Adventure: 542 lb road-ready OEM reference. Equipment and fuel basis differ from measured test weights.",
+      "sourceUrl": "https://www.bmwmotorcycles.com/en/models/adventure/f900gs-adventure/technicaldata.html"
+    },
+    {
+      "id": "africa-2020-manual",
+      "bikeId": "honda-africa-twin-1100",
+      "label": "Standard manual \u00b7 2020 OEM",
+      "weightLb": 498,
+      "basis": "2020 Honda owner manual curb-weight reference: Standard manual, 498 lb. Market equipment varies; the separate Rider test includes panniers.",
+      "sourceUrl": "https://cdn.powersports.honda.com/documentum/MWOM/ml.remawmom.2020_31mks800_crf1100_africa_twin.pdf"
+    },
+    {
+      "id": "africa-2020-dct",
+      "bikeId": "honda-africa-twin-1100",
+      "label": "Standard DCT \u00b7 2020 OEM",
+      "weightLb": 520,
+      "basis": "2020 Honda owner manual curb-weight reference: Standard DCT, 520 lb. Market equipment varies; the separate Rider test includes panniers.",
+      "sourceUrl": "https://cdn.powersports.honda.com/documentum/MWOM/ml.remawmom.2020_31mks800_crf1100_africa_twin.pdf"
+    },
+    {
+      "id": "africa-2020-as-manual",
+      "bikeId": "honda-africa-twin-1100",
+      "label": "Adventure Sports manual \u00b7 2020 OEM",
+      "weightLb": 529,
+      "basis": "2020 Honda owner manual curb-weight reference: Adventure Sports manual, 529 lb. Market equipment varies; the separate Rider test includes panniers.",
+      "sourceUrl": "https://cdn.powersports.honda.com/documentum/MWOM/ml.remawmom.2020_31mks800_crf1100_africa_twin.pdf"
+    },
+    {
+      "id": "africa-2020-as-dct",
+      "bikeId": "honda-africa-twin-1100",
+      "label": "Adventure Sports DCT \u00b7 2020 OEM",
+      "weightLb": 551,
+      "basis": "2020 Honda owner manual curb-weight reference: Adventure Sports DCT, 551 lb. Market equipment varies; the separate Rider test includes panniers.",
+      "sourceUrl": "https://cdn.powersports.honda.com/documentum/MWOM/ml.remawmom.2020_31mks800_crf1100_africa_twin.pdf"
+    },
+    {
+      "id": "vstrom800-standard",
+      "bikeId": "suzuki-vstrom-800de",
+      "label": "800 \u00b7 2026 OEM",
+      "weightLb": 492,
+      "basis": "2026 V-Strom 800 road model: Suzuki specifies 223 kg / 492 lb curb. The 800DE stock run remains explicitly labeled.",
+      "sourceUrl": "https://www.globalsuzuki.com/motorcycle/smgs/products/2026v-strom800/"
+    },
+    {
+      "id": "drz4-sm",
+      "bikeId": "suzuki-drz4s",
+      "label": "SM \u00b7 2025 OEM",
+      "weightLb": 340,
+      "basis": "2025 DR-Z4SM: 340 lb curb weight. Model weight only; tested S and SM configurations are labeled separately.",
+      "sourceUrl": "https://suzukicycles.com/supermoto/2025/dr-z4sm"
+    },
+    {
+      "id": "drz400-sm",
+      "bikeId": "suzuki-drz400",
+      "label": "SM \u00b7 2024 OEM",
+      "weightLb": 322,
+      "basis": "2024 DR-Z400SM: 322 lb curb weight. A historical model-weight reference for the carbureted 398 cc family.",
+      "sourceUrl": "https://suzukicycles.com/SuperMoto/2024/DR-Z400SM"
+    },
+    {
+      "id": "klr650-abs",
+      "bikeId": "kawasaki-klr650",
+      "label": "ABS \u00b7 2022 OEM",
+      "weightLb": 460.6,
+      "basis": "2022 KLR650 ABS: 460.6 lb curb, fluids and more than 90% fuel. California equipment can add 2.2 lb.",
+      "sourceUrl": "https://www.kawasaki.com/en-us/products/ProductSpecSheetPDF/2022-klr650-abs"
+    }
+  ],
+  "weightLabels": {
+    "research-weight-ktm-890-adventure-r-stock": "Adventure R \u00b7 2023 measured",
+    "research-weight-bmw-r1300gs-stock": "GS Triple Black \u00b7 measured",
+    "research-weight-bmw-f900gs-stock": "GS \u00b7 OEM",
+    "research-weight-honda-africa-twin-1100-stock": "Adventure Sports ES + panniers \u00b7 tested",
+    "research-weight-suzuki-vstrom-800de-stock": "800DE \u00b7 2023 measured",
+    "research-weight-husqvarna-701-enduro-stock-2021": "Enduro LR \u00b7 full tanks",
+    "research-weight-suzuki-drz4s-stock-2025": "S \u00b7 2025 curb",
+    "research-weight-ktm-690-enduro-stock-2019": "Enduro R \u00b7 2019 measured",
+    "research-weight-ktm390-adventure-stock-cycleworld-2020": "Adventure \u00b7 2020 measured",
+    "research-weight-ktm390-duke-rottweiler-pcv-airbox-exhaust": "Duke \u00b7 373 cc reference",
+    "research-weight-ktm390-duke-ecuwest-remap-2016": "Duke \u00b7 373 cc reference",
+    "research-weight-ktm390-duke-brperformance-stage2": "Duke \u00b7 373 cc reference",
+    "research-weight-ktm390-duke-mantra-stage2-sport-plus-2016": "Duke \u00b7 373 cc reference"
+  }
+}

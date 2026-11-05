@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "honda-crf450rl-stock-2023",
+    "bikeId": "honda-crf450rl",
+    "make": "Honda",
+    "name": "CRF450RL",
+    "years": "2023 test",
+    "displacement": "450 cc",
+    "configName": "Stock \u00b7 2023 Dirt Rider dyno",
+    "shortName": "2023 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        8.1,
+        23.072
+      ],
+      [
+        3000,
+        10.5,
+        24.923
+      ],
+      [
+        3500,
+        12.8,
+        26.042
+      ],
+      [
+        4000,
+        15.8,
+        28.128
+      ],
+      [
+        4500,
+        20.0,
+        31.648
+      ],
+      [
+        5000,
+        23.4,
+        33.326
+      ],
+      [
+        5500,
+        27.4,
+        35.475
+      ],
+      [
+        6000,
+        31.4,
+        37.266
+      ],
+      [
+        6500,
+        34.3,
+        37.576
+      ],
+      [
+        7000,
+        36.4,
+        37.029
+      ],
+      [
+        7500,
+        37.8,
+        35.889
+      ],
+      [
+        8000,
+        36.2,
+        32.222
+      ],
+      [
+        8500,
+        35.7,
+        29.908
+      ],
+      [
+        9000,
+        35.4,
+        28.009
+      ],
+      [
+        9500,
+        34.1,
+        25.56
+      ],
+      [
+        10000,
+        31.1,
+        22.146
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/tests/honda-crf450rl-dyno-test-2023/",
+      "imageUrl": "https://www.dirtrider.com/resizer/FAXOS2RGdG0BoPTAAwTw_dJFZTE=/1440x0/filters:focal(736x405:746x415)/cloudfront-us-east-1.images.arcpublishing.com/octane/D3RVGXZQORGPVFZRWP6J7EVFDY.jpg",
+      "asset": "assets/charts/ds-honda450.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "38.0 hp @ 7,500 RPM \u00b7 27.8 lb-ft @ 6,400 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical.",
+    "weightLb": 293,
+    "weightBasis": "Dirt Rider measured the 2023 test bike at 293 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/tests/honda-crf450rl-review/",
+    "usSourceUrl": "https://powersports.honda.com/motorcycle/dual-sport/crf450rl",
+    "category": "Dual sport",
+    "selectionReason": "Performance-oriented Japanese street-legal dirt bike with a directly measured stock dyno test."
+  },
+  {
+    "id": "ktm-350-excf-stock-2019",
+    "bikeId": "ktm-350-excf",
+    "make": "KTM",
+    "name": "350 EXC-F",
+    "years": "2019 test",
+    "displacement": "349.7 cc",
+    "configName": "Stock \u00b7 2019 Dirt Rider dyno",
+    "shortName": "2019 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        3000,
+        10.3,
+        24.448
+      ],
+      [
+        3500,
+        11.8,
+        24.008
+      ],
+      [
+        4000,
+        13.8,
+        24.567
+      ],
+      [
+        4500,
+        16.7,
+        26.426
+      ],
+      [
+        5000,
+        19.4,
+        27.629
+      ],
+      [
+        5500,
+        22.2,
+        28.743
+      ],
+      [
+        6000,
+        24.8,
+        29.433
+      ],
+      [
+        6500,
+        27.4,
+        30.017
+      ],
+      [
+        7000,
+        29.7,
+        30.213
+      ],
+      [
+        7500,
+        32.0,
+        30.383
+      ],
+      [
+        8000,
+        33.5,
+        29.819
+      ],
+      [
+        8500,
+        34.4,
+        28.819
+      ],
+      [
+        8840,
+        34.7,
+        27.952
+      ],
+      [
+        9000,
+        34.8,
+        27.534
+      ],
+      [
+        9500,
+        34.2,
+        25.635
+      ],
+      [
+        10000,
+        33.4,
+        23.784
+      ],
+      [
+        10500,
+        32.5,
+        22.041
+      ],
+      [
+        11000,
+        32.0,
+        20.715
+      ],
+      [
+        11500,
+        31.9,
+        19.753
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/2019-ktm-350-exc-f-dyno-test/",
+      "imageUrl": "https://www.dirtrider.com/resizer/3MIeNaJJIc9V75vdT_dXtEpk6nk=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/VNVZJZ7WNMRFRARG2JECQYEHVM.jpg",
+      "asset": "assets/charts/ds-ktm350.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "34.74 hp @ 8,840 RPM \u00b7 22.43 lb-ft @ 7,250 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical. The 2019 bike is a prior generation; current KTM 350 EXC-F models have changed substantially.",
+    "weightLb": 255,
+    "weightBasis": "Dirt Rider measured the 2019 test bike at 255 lb, with the test bike weighed ready to ride.",
+    "weightSourceUrl": "https://www.dirtrider.com/2019-ktm-350-exc-f-vs-2019-ktm-500-exc-f-comparison-review/",
+    "usSourceUrl": "https://www.ktm.com/en-us/models.html",
+    "category": "Dual sport",
+    "selectionReason": "Lightweight high-revving street-legal enduro; explicitly requested by the user."
+  },
+  {
+    "id": "ktm-500-excf-stock-2023",
+    "bikeId": "ktm-500-excf",
+    "make": "KTM",
+    "name": "500 EXC-F",
+    "years": "2023 test",
+    "displacement": "511 cc",
+    "configName": "Stock \u00b7 2023 Dirt Rider dyno",
+    "shortName": "2023 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        3000,
+        12.6,
+        29.908
+      ],
+      [
+        3500,
+        16.6,
+        33.773
+      ],
+      [
+        4000,
+        19.4,
+        34.536
+      ],
+      [
+        4500,
+        23.2,
+        36.712
+      ],
+      [
+        5000,
+        26.4,
+        37.598
+      ],
+      [
+        5500,
+        29.6,
+        38.323
+      ],
+      [
+        6000,
+        32.8,
+        38.928
+      ],
+      [
+        6500,
+        35.2,
+        38.562
+      ],
+      [
+        7000,
+        38.3,
+        38.962
+      ],
+      [
+        7500,
+        39.8,
+        37.788
+      ],
+      [
+        8000,
+        40.6,
+        36.139
+      ],
+      [
+        8200,
+        40.6,
+        35.257
+      ],
+      [
+        8500,
+        40.3,
+        33.761
+      ],
+      [
+        9000,
+        38.2,
+        30.224
+      ],
+      [
+        9500,
+        38.5,
+        28.858
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/tests/ktm-500-exc-f-dyno-test-2023/",
+      "imageUrl": "https://www.dirtrider.com/resizer/MEIEEcNtXRxXk1tdAt22yM-BZD4=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/TWLFSM2EJBGI7EMIGXXTB2IMMI.jpg",
+      "asset": "assets/charts/ds-ktm500.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "40.5 hp @ 8,200 RPM \u00b7 28.6 lb-ft @ 7,000 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical. The 2023 bike is the last year before a major 2024 redesign. A Dunlop D404 street rear tire was used for the dyno run.",
+    "weightLb": 255,
+    "weightBasis": "Dirt Rider measured the 2023 test bike at 255 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/dirt-bikes/ktm-500-exc-f-technical-information-2023/",
+    "usSourceUrl": "https://www.ktm.com/en-us/models.html",
+    "category": "Dual sport",
+    "selectionReason": "Broad-power lightweight enduro/dual-sport flagship; explicitly requested by the user."
+  },
+  {
+    "id": "ktm-690-enduro-stock-2019",
+    "bikeId": "ktm-690-enduro",
+    "make": "KTM",
+    "name": "690 Enduro R",
+    "years": "2019 test",
+    "displacement": "690 cc",
+    "configName": "Stock \u00b7 2019 Cycle World dyno",
+    "shortName": "2019 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        8.3,
+        29.552
+      ],
+      [
+        2500,
+        12.3,
+        35.035
+      ],
+      [
+        3000,
+        16.7,
+        39.64
+      ],
+      [
+        3500,
+        20.2,
+        41.098
+      ],
+      [
+        4000,
+        23.9,
+        42.547
+      ],
+      [
+        4500,
+        28.5,
+        45.099
+      ],
+      [
+        5000,
+        34.1,
+        48.565
+      ],
+      [
+        5500,
+        41.0,
+        53.083
+      ],
+      [
+        6000,
+        46.5,
+        55.187
+      ],
+      [
+        6500,
+        52.7,
+        57.734
+      ],
+      [
+        7000,
+        57.1,
+        58.086
+      ],
+      [
+        7500,
+        58.2,
+        55.258
+      ],
+      [
+        8000,
+        58.4,
+        51.983
+      ],
+      [
+        8230,
+        58.9,
+        50.963
+      ],
+      [
+        8500,
+        58.0,
+        48.59
+      ],
+      [
+        8750,
+        57.7,
+        46.957
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/how-much-power-does-2019-ktm-690-enduro-r-make/",
+      "imageUrl": "https://www.cycleworld.com/resizer/GgpxthC8HyrVrcYPlZZCOXbMDMs=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/E5MW2ZCD62DAHD3X4S27IONPDY.jpg",
+      "asset": "assets/charts/ds-ktm690.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "59.15 hp @ 8,230 RPM \u00b7 43.36 lb-ft @ 6,810 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical. 2026 690 models were revised; the curve and weight are explicitly the 2019 test reference.",
+    "weightLb": 346,
+    "weightBasis": "Dirt Rider measured the 2019 test bike at 346 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/ktm-690-enduro-r-review/",
+    "usSourceUrl": "https://www.ktm.com/en-us/models/dual-sport/2026-ktm-690-enduror.html",
+    "category": "Dual sport",
+    "selectionReason": "Large single-cylinder dual sport bridging trails and longer pavement transfers."
+  },
+  {
+    "id": "husqvarna-701-enduro-stock-2021",
+    "bikeId": "husqvarna-701-enduro",
+    "make": "Husqvarna",
+    "name": "701 Enduro LR",
+    "years": "2021 LR test",
+    "displacement": "693 cc",
+    "configName": "Stock \u00b7 2021 Enduro LR reference",
+    "shortName": "2021 LR reference",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        12.8,
+        36.459
+      ],
+      [
+        3000,
+        16.6,
+        39.402
+      ],
+      [
+        3500,
+        20.1,
+        40.894
+      ],
+      [
+        4000,
+        24.0,
+        42.725
+      ],
+      [
+        4500,
+        28.4,
+        44.941
+      ],
+      [
+        5000,
+        34.6,
+        49.277
+      ],
+      [
+        5500,
+        42.4,
+        54.896
+      ],
+      [
+        6000,
+        48.0,
+        56.967
+      ],
+      [
+        6500,
+        53.3,
+        58.391
+      ],
+      [
+        7000,
+        57.7,
+        58.697
+      ],
+      [
+        7500,
+        59.3,
+        56.303
+      ],
+      [
+        8000,
+        59.9,
+        53.318
+      ],
+      [
+        8500,
+        60.2,
+        50.433
+      ],
+      [
+        8510,
+        60.2,
+        50.374
+      ],
+      [
+        8750,
+        59.4,
+        48.341
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/story/bikes/2021-husqvarna-701-enduro-lr-dyno-test/",
+      "imageUrl": "https://www.cycleworld.com/resizer/TyxZ0mZMKdnY25ID7ZUk5sZCcOc=/1440x0/filters:focal(1036x552:1046x562)/cloudfront-us-east-1.images.arcpublishing.com/octane/KHOXULDQGZF4HMM7KNK3UJDTMA.jpg",
+      "asset": "assets/charts/ds-husky701.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison. The tested motorcycle is specifically a 701 Enduro LR (Long Range). It is a historical engine-family reference, not a dyno test of the revised 2026 standard 701 Enduro. The weight source labels the LR as 2020 while the chart/article label it 2021; do not treat this as a current standard-bike mass."
+    },
+    "reportedPeaks": "60.31 hp @ 8,510 RPM \u00b7 44.03 lb-ft @ 6,740 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical. LR body/tank configuration is explicit. The 2026 U.S. 701 family has major updates; this older LR trace is not a current-model test.",
+    "weightLb": 388,
+    "weightBasis": "Publisher comparison measured the Enduro LR at 388 lb wet with its 6.6-gallon tanks filled. That comparison calls it a 2020 LR, while the dyno article/chart calls the test 2021. This is the LR reference, not a current standard 701 weight.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/dirt-bike-tests-and-reviews/big-dual-sport-motorcycle-vs-adventure-bike-comparison-test/",
+    "usSourceUrl": "https://press.husqvarna-motorcycles.com/news-new-and-improved-701-enduro-and-701-supermoto-from-husqvarna-mobility?id=222563&l=north+america&menueid=18846",
+    "category": "Dual sport",
+    "selectionReason": "U.S.-available 701 family represented by an explicitly historical 2021 Enduro LR engine/platform reference; not the current standard 701 mass or output."
+  },
+  {
+    "id": "suzuki-drz4s-stock-2025",
+    "bikeId": "suzuki-drz4s",
+    "make": "Suzuki",
+    "name": "DR-Z4S",
+    "years": "2025 test",
+    "displacement": "398 cc",
+    "configName": "Stock \u00b7 2025 Cycle World dyno",
+    "shortName": "2025 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        5.5,
+        19.583
+      ],
+      [
+        2500,
+        7.5,
+        21.363
+      ],
+      [
+        3000,
+        10.3,
+        24.448
+      ],
+      [
+        3500,
+        13.2,
+        26.856
+      ],
+      [
+        4000,
+        15.5,
+        27.594
+      ],
+      [
+        4500,
+        18.6,
+        29.433
+      ],
+      [
+        5000,
+        22.0,
+        31.332
+      ],
+      [
+        5500,
+        25.1,
+        32.497
+      ],
+      [
+        6000,
+        27.0,
+        32.044
+      ],
+      [
+        6500,
+        29.6,
+        32.428
+      ],
+      [
+        7000,
+        31.2,
+        31.739
+      ],
+      [
+        7500,
+        32.0,
+        30.383
+      ],
+      [
+        8000,
+        33.4,
+        29.73
+      ],
+      [
+        8120,
+        33.5,
+        29.378
+      ],
+      [
+        8500,
+        32.3,
+        27.059
+      ],
+      [
+        9000,
+        31.4,
+        24.844
+      ],
+      [
+        9500,
+        30.7,
+        23.012
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/suzuki-dr-z4s-dyno-test-2025/",
+      "imageUrl": "https://www.cycleworld.com/resizer/B9f1PPYQuIjriX8br2jeqWGlQd4=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/H7F5YATXCNBZXEQRLNRRTBTRR4.jpg",
+      "asset": "assets/charts/ds-drz4s.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "33.50 hp @ 8,120 RPM \u00b7 23.87 lb-ft @ 6,610 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical.",
+    "weightLb": 333,
+    "weightBasis": "Cycle World specifies a 333 lb curb weight for this 2025 model.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/suzuki-dr-z4s-dyno-test-2025/",
+    "usSourceUrl": "https://suzukicycles.com/dualsport/2026/dr-z4s-plus",
+    "category": "Dual sport",
+    "selectionReason": "Modern fuel-injected successor to the widely used DR-Z400S, with tractable midrange and adjustable electronics."
+  },
+  {
+    "id": "suzuki-dr650-stock-2022",
+    "bikeId": "suzuki-dr650",
+    "make": "Suzuki",
+    "name": "DR650S",
+    "years": "2022 test",
+    "displacement": "644 cc",
+    "configName": "Stock \u00b7 2022 Dirt Rider dyno",
+    "shortName": "2022 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        11.0,
+        31.332
+      ],
+      [
+        3000,
+        15.9,
+        37.741
+      ],
+      [
+        3500,
+        20.4,
+        41.505
+      ],
+      [
+        4000,
+        24.2,
+        43.082
+      ],
+      [
+        4500,
+        27.6,
+        43.675
+      ],
+      [
+        5000,
+        30.4,
+        43.295
+      ],
+      [
+        5500,
+        33.2,
+        42.984
+      ],
+      [
+        6000,
+        34.5,
+        40.945
+      ],
+      [
+        6200,
+        34.9,
+        40.084
+      ],
+      [
+        6500,
+        34.7,
+        38.015
+      ],
+      [
+        7000,
+        32.9,
+        33.468
+      ],
+      [
+        7500,
+        30.4,
+        28.863
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/story/tests/2022-suzuki-dr650s-dyno-test/",
+      "imageUrl": "https://www.dirtrider.com/resizer/Ki8b__r0aVQUaPmKAn_FhIRGBe4=/1440x0/filters:focal(1049x573:1059x583)/cloudfront-us-east-1.images.arcpublishing.com/octane/XYGH57DFV5EN5BFWW2OD6NEFN4.jpg",
+      "asset": "assets/charts/ds-dr650.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "35.1 hp @ 6,200 RPM \u00b7 32.2 lb-ft @ 4,500 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical.",
+    "weightLb": 369,
+    "weightBasis": "Dirt Rider measured this 2022 test bike at 369 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/tests/2022-suzuki-dr650s-dyno-test/",
+    "usSourceUrl": "https://suzukicycles.com/dualsport/2026/dr650s",
+    "category": "Dual sport",
+    "selectionReason": "Simple large-displacement air/oil-cooled all-rounder, strong at lower engine speeds."
+  },
+  {
+    "id": "kawasaki-klx300-stock-2021",
+    "bikeId": "kawasaki-klx300",
+    "make": "Kawasaki",
+    "name": "KLX300",
+    "years": "2021 test",
+    "displacement": "292 cc",
+    "configName": "Stock \u00b7 2021 Dirt Rider dyno",
+    "shortName": "2021 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        5.8,
+        16.521
+      ],
+      [
+        3000,
+        7.7,
+        18.277
+      ],
+      [
+        3500,
+        9.4,
+        19.125
+      ],
+      [
+        4000,
+        10.7,
+        19.048
+      ],
+      [
+        4500,
+        12.1,
+        19.147
+      ],
+      [
+        5000,
+        13.9,
+        19.796
+      ],
+      [
+        5500,
+        15.4,
+        19.939
+      ],
+      [
+        6000,
+        16.5,
+        19.583
+      ],
+      [
+        6500,
+        17.4,
+        19.062
+      ],
+      [
+        7000,
+        18.2,
+        18.514
+      ],
+      [
+        7500,
+        21.7,
+        20.603
+      ],
+      [
+        8000,
+        23.4,
+        20.829
+      ],
+      [
+        8100,
+        23.3,
+        20.484
+      ],
+      [
+        8500,
+        22.8,
+        19.101
+      ],
+      [
+        9000,
+        22.4,
+        17.723
+      ],
+      [
+        9500,
+        21.2,
+        15.891
+      ],
+      [
+        10000,
+        18.8,
+        13.387
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/story/tests/2021-kawasaki-klx300-dyno-test/",
+      "imageUrl": "https://www.dirtrider.com/resizer/MNZiL9BzVdLsC-CN0n0feQoZXYs=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/OJAWHK23WBCGNBYMASXB73YJGY.jpg",
+      "asset": "assets/charts/ds-klx300.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "23.4 hp @ 8,100 RPM \u00b7 15.4 lb-ft @ 8,000 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical.",
+    "weightLb": 302,
+    "weightBasis": "Dirt Rider measured the 2021 test bike at 302 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/tests/2021-kawasaki-klx300-review/",
+    "usSourceUrl": "https://www.kawasaki.com/en-US/motorcycle/klx/dual-sport/klx300",
+    "category": "Dual sport",
+    "selectionReason": "Approachable small-displacement dual sport with adjustable suspension and a measured stock curve."
+  },
+  {
+    "id": "honda-crf250f-stock-2022",
+    "bikeId": "honda-crf250f",
+    "make": "Honda",
+    "name": "CRF250F",
+    "years": "2022 test",
+    "displacement": "249 cc",
+    "configName": "Stock \u00b7 2022 Dirt Rider dyno",
+    "shortName": "2022 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        5.8,
+        16.521
+      ],
+      [
+        3000,
+        6.9,
+        16.378
+      ],
+      [
+        3500,
+        8.7,
+        17.701
+      ],
+      [
+        4000,
+        9.8,
+        17.446
+      ],
+      [
+        4500,
+        11.4,
+        18.04
+      ],
+      [
+        5000,
+        13.4,
+        19.084
+      ],
+      [
+        5500,
+        15.8,
+        20.456
+      ],
+      [
+        6000,
+        17.7,
+        21.007
+      ],
+      [
+        6500,
+        18.9,
+        20.705
+      ],
+      [
+        7000,
+        19.8,
+        20.142
+      ],
+      [
+        7500,
+        20.0,
+        18.989
+      ],
+      [
+        8000,
+        19.6,
+        17.446
+      ],
+      [
+        8500,
+        19.5,
+        16.336
+      ],
+      [
+        9000,
+        18.6,
+        14.717
+      ]
+    ],
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/story/tests/2022-honda-crf250f-dyno-test/",
+      "imageUrl": "https://www.dirtrider.com/resizer/Z6KvVVzHksIyxu-QmYncxqXU87g=/1440x0/filters:focal(1018x541:1028x551)/cloudfront-us-east-1.images.arcpublishing.com/octane/BABQHYORFFGLPJWGI6GTRA7WX4.jpg",
+      "asset": "assets/charts/ds-crf250f.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "20.1 hp @ 7,500 RPM \u00b7 15.5 lb-ft @ 6,000 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical. CRF250F is an off-road-only trail bike. The 2026 U.S. CRF300F succeeds it; do not substitute this curve for the 300F.",
+    "weightLb": 264,
+    "weightBasis": "Dirt Rider measured the 2022 test bike at 264 lb wet.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/tests/honda-crf250f-review-2022/",
+    "usSourceUrl": "https://www.dirtrider.com/story/tests/honda-crf250f-review-2022/",
+    "category": "Off-road",
+    "selectionReason": "User-requested recreational trail bike; not street legal and not counted as one of the ten dual sports."
+  },
+  {
+    "id": "honda-cbr650r-stock-2019",
+    "bikeId": "honda-cbr650r",
+    "make": "Honda",
+    "name": "CBR650R",
+    "years": "2019 test",
+    "displacement": "649 cc",
+    "configName": "Stock \u00b7 2019 Cycle World dyno",
+    "shortName": "2019 stock dyno",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        11.2,
+        39.877
+      ],
+      [
+        2500,
+        15.0,
+        42.725
+      ],
+      [
+        3000,
+        18.6,
+        44.15
+      ],
+      [
+        3500,
+        22.8,
+        46.388
+      ],
+      [
+        4000,
+        27.9,
+        49.668
+      ],
+      [
+        4500,
+        32.1,
+        50.796
+      ],
+      [
+        5000,
+        35.4,
+        50.416
+      ],
+      [
+        5500,
+        38.0,
+        49.199
+      ],
+      [
+        6000,
+        40.0,
+        47.473
+      ],
+      [
+        6500,
+        45.7,
+        50.065
+      ],
+      [
+        7000,
+        52.0,
+        52.898
+      ],
+      [
+        7500,
+        58.0,
+        55.068
+      ],
+      [
+        8000,
+        63.7,
+        56.7
+      ],
+      [
+        8500,
+        67.6,
+        56.632
+      ],
+      [
+        9000,
+        71.4,
+        56.493
+      ],
+      [
+        9500,
+        75.2,
+        56.368
+      ],
+      [
+        10000,
+        78.0,
+        55.543
+      ],
+      [
+        10500,
+        79.5,
+        53.915
+      ],
+      [
+        10950,
+        79.9,
+        51.96
+      ],
+      [
+        11000,
+        79.8,
+        51.659
+      ],
+      [
+        11500,
+        78.5,
+        48.608
+      ],
+      [
+        12000,
+        76.7,
+        45.514
+      ],
+      [
+        12500,
+        73.4,
+        41.814
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/how-much-power-does-2019-honda-cbr650r-make/",
+      "imageUrl": "https://www.cycleworld.com/resizer/aJj1IiyrZ2KWkD16I0f6PG-CvtE=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/3PGIK6NMF5B4DZ7W7Q2IQI6WAM.jpg",
+      "asset": "assets/charts/ds-cbr650r.jpg",
+      "method": "Approximate power trace sampled from the published dyno chart at 500 RPM intervals plus a sample near the printed power peak. Torque is calculated from the sampled wheel horsepower using N\u00b7m = hp \u00d7 7120.9092 / RPM. Interpolation between samples is linear. Printed peak metadata remains separate.",
+      "caveat": "Rear-wheel chassis-dyno test. Samples are approximate readings from the published image, not original run files. Independent dynos, conditions and different model years are not a controlled comparison."
+    },
+    "reportedPeaks": "80.10 hp @ 10,950 RPM \u00b7 41.73 lb-ft @ 8,170 RPM",
+    "notes": "Stock OEM ECU, intake and exhaust in the cited test. Exact tested year is shown; subsequent model years are not assumed mechanically identical.",
+    "weightLb": 455,
+    "weightBasis": "Cycle World measured the 2019 CBR650R at 455 lb fully fueled.",
+    "weightSourceUrl": "https://www.cycleworld.com/how-much-power-does-2019-honda-cbr650r-make/",
+    "usSourceUrl": "https://powersports.honda.com/motorcycle/sport/cbr650r",
+    "category": "Road",
+    "selectionReason": "User-requested inline-four sport motorcycle, kept separate from adventure and dual-sport selections."
+  },
+  {
+    "id": "honda-crf300f-stock-2026",
+    "bikeId": "honda-crf300f",
+    "make": "Honda",
+    "name": "CRF300F",
+    "years": "2026 U.S.",
+    "displacement": "293 cc",
+    "configName": "Stock \u00b7 source only",
+    "shortName": "Dyno curve not verified",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [],
+    "source": {
+      "publisher": "American Honda",
+      "url": "https://powersports.honda.com/motorcycle/trail/crf300f/2026/crf300f",
+      "imageUrl": "",
+      "asset": "",
+      "method": "Manufacturer specifications only. No verifiable full measured U.S.-model dyno trace was located in this research; no curve is synthesized from peak figures or the CRF250F.",
+      "caveat": "Off-road-only U.S. trail motorcycle, not a street-legal dual sport. International claimed power figures are not mixed with the rear-wheel dyno library. This entry cannot currently be plotted."
+    },
+    "reportedPeaks": "No verified full U.S.-model dyno curve or U.S.-published peak figures available.",
+    "notes": "Explicitly requested CRF300F, not CRF300L. Honda introduced the larger air-cooled trail model for the U.S. in MY2026, with a six-speed transmission. Retained as a source-only record pending a usable measured trace.",
+    "weightLb": 271,
+    "weightBasis": "American Honda 2026 U.S. specifications: 271 lb curb weight, including standard equipment, fluids and a full tank of fuel.",
+    "weightSourceUrl": "https://powersports.honda.com/api/custom/downloads/specs?category=trail&segment=motorcycle&trim=CRF300FT&year=2026",
+    "usSourceUrl": "https://powersports.honda.com/offers/motorcycle/trail/crf300ft",
+    "category": "Off-road",
+    "selectionReason": "User-requested current U.S. recreational trail model; kept outside the ten street-legal dual sports.",
+    "chartStatus": "source-only",
+    "unavailableReason": "No verifiable full measured dyno chart located; official specifications are linked."
+  }
+]

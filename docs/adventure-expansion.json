@@ -1,0 +1,988 @@
+[
+  {
+    "id": "bmw-r1300gs-stock",
+    "bikeId": "bmw-r1300gs",
+    "make": "BMW",
+    "name": "R 1300 GS",
+    "years": "2025 test",
+    "displacement": "1300 cc",
+    "configName": "Stock · Cycle World (2025)",
+    "shortName": "Stock (2025)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        29.9,
+        106.46
+      ],
+      [
+        2500,
+        36.9,
+        105.1
+      ],
+      [
+        3000,
+        46.1,
+        109.42
+      ],
+      [
+        3500,
+        56.1,
+        114.14
+      ],
+      [
+        4000,
+        66.0,
+        117.5
+      ],
+      [
+        4500,
+        74.9,
+        118.52
+      ],
+      [
+        5000,
+        86.4,
+        123.05
+      ],
+      [
+        5500,
+        93.3,
+        120.8
+      ],
+      [
+        6000,
+        103.2,
+        122.48
+      ],
+      [
+        6500,
+        117.4,
+        128.61
+      ],
+      [
+        7000,
+        121.8,
+        123.9
+      ],
+      [
+        7500,
+        124.7,
+        118.4
+      ],
+      [
+        7750,
+        127.4,
+        117.06
+      ],
+      [
+        8000,
+        126.8,
+        112.87
+      ],
+      [
+        8500,
+        119.2,
+        99.86
+      ],
+      [
+        9000,
+        112.9,
+        89.33
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/motorcycle-reviews/bmw-r-1300-gs-review/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/NPK3JI42ZJHOPENNW42B5CPXGA.jpg",
+      "asset": "assets/charts/adv-r1300.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons."
+    },
+    "reportedPeaks": "128.38 hp @ 7,750 RPM · 95.83 lb-ft @ 6,410 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved. The article was available through the publisher’s public Arc CDN; canonical article URL is retained.",
+    "weightLb": 566,
+    "weightBasis": "Cycle World measured wet weight of the equipped Triple Black test motorcycle: 566 lb. This differs from BMW’s 523 lb standard-equipment curb claim.",
+    "weightSourceUrl": "https://www.cycleworld.com/motorcycle-reviews/bmw-r-1300-gs-review/",
+    "usSourceUrl": "https://www.bmwmotorcycles.com/en/models/adventure/r1300gs.html",
+    "category": "Adventure",
+    "selectionReason": "Large-capacity long-distance boxer reference with broad torque and touring capability."
+  },
+  {
+    "id": "bmw-f900gs-stock",
+    "bikeId": "bmw-f900gs",
+    "make": "BMW",
+    "name": "F 900 GS",
+    "years": "2024–25 test",
+    "displacement": "895 cc",
+    "configName": "Stock · LeoVince / Dynojet (2024–25)",
+    "shortName": "Stock (2024–25)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        3500,
+        37.3,
+        75.89
+      ],
+      [
+        4000,
+        44.8,
+        79.75
+      ],
+      [
+        4500,
+        51.6,
+        81.65
+      ],
+      [
+        5000,
+        57.3,
+        81.61
+      ],
+      [
+        5500,
+        63.8,
+        82.6
+      ],
+      [
+        6000,
+        70.0,
+        83.08
+      ],
+      [
+        6500,
+        78.4,
+        85.89
+      ],
+      [
+        7000,
+        81.4,
+        82.81
+      ],
+      [
+        7500,
+        86.6,
+        82.22
+      ],
+      [
+        8000,
+        91.3,
+        81.27
+      ],
+      [
+        8030,
+        91.4,
+        81.05
+      ],
+      [
+        8500,
+        91.1,
+        76.32
+      ]
+    ],
+    "source": {
+      "publisher": "LeoVince / Dynojet",
+      "url": "https://www.leovince.com/en-lv/product/15610bu-lv-14-black-edition-bmw-f-900-gs-adventure-2024-2026",
+      "imageUrl": "https://static.leovince.com/products/powerdiagrams/GP%20-%2015610U%20%28F900GS%29.pdf",
+      "asset": "assets/charts/adv-f900.png",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons. Only the red STOCK.wp8 trace is used; the blue/green aftermarket LeoVince traces are not used. SAE correction and smoothing 5 are printed on the source chart."
+    },
+    "reportedPeaks": "91.53 hp @ 8,030 RPM · 63.51 lb-ft @ 6,450 RPM",
+    "notes": "Official exhaust-manufacturer dyno chart includes a stock baseline for BMW F900GS 2024–2025. The U.S. wet reference weight is manufacturer claimed, not the mass of this particular dyno motorcycle.",
+    "weightLb": 482,
+    "weightBasis": "2024 F 900 GS claimed wet weight: 482 lb. BMW U.S. specifies road-ready weight with operating fluids and at least 90% fuel; this is not a measured weight of the LeoVince dyno motorcycle.",
+    "weightSourceUrl": "https://www.cycleworld.com/motorcycle-reviews/bmw-f-900-gs-ride-review/",
+    "usSourceUrl": "https://www.bmwmotorcycles.com/en/models/adventure/f900gs.html",
+    "category": "Adventure",
+    "selectionReason": "Middleweight off-road-focused GS alternative to heavyweight touring models."
+  },
+  {
+    "id": "ducati-desertx-937-stock",
+    "bikeId": "ducati-desertx-937",
+    "make": "Ducati",
+    "name": "DesertX 937",
+    "years": "2023 test",
+    "displacement": "937 cc",
+    "configName": "Stock · Cycle World (2023)",
+    "shortName": "Stock (2023)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        16.5,
+        58.75
+      ],
+      [
+        2500,
+        18.8,
+        53.55
+      ],
+      [
+        3000,
+        25.2,
+        59.82
+      ],
+      [
+        3500,
+        34.1,
+        69.38
+      ],
+      [
+        4000,
+        40.9,
+        72.81
+      ],
+      [
+        4500,
+        43.7,
+        69.15
+      ],
+      [
+        5000,
+        48.3,
+        68.79
+      ],
+      [
+        5500,
+        56.3,
+        72.89
+      ],
+      [
+        6000,
+        64.7,
+        76.79
+      ],
+      [
+        6500,
+        70.7,
+        77.45
+      ],
+      [
+        7000,
+        74.2,
+        75.48
+      ],
+      [
+        7500,
+        78.8,
+        74.82
+      ],
+      [
+        8000,
+        86.4,
+        76.91
+      ],
+      [
+        8500,
+        90.6,
+        75.9
+      ],
+      [
+        9000,
+        93.6,
+        74.06
+      ],
+      [
+        9060,
+        93.6,
+        73.57
+      ],
+      [
+        9500,
+        91.9,
+        68.89
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/ducati-desertx-dyno-test-2023/",
+      "imageUrl": "https://www.cycleworld.com/resizer/s8gmn77-PwhXnAMo-jn03Ew3AwQ=/1440x0/filters:focal(755x400:765x410)/cloudfront-us-east-1.images.arcpublishing.com/octane/KXQ7JAQSWRCIRJKJTGOZ7ZOOQQ.jpg",
+      "asset": "assets/charts/adv-desertx.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons. This is the 937 cc Testastretta generation, not the new 890 cc 2026 V2."
+    },
+    "reportedPeaks": "93.73 hp @ 9,060 RPM · 57.10 lb-ft @ 6,200 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 518,
+    "weightBasis": "Cycle World measured 518 lb wet with accessory crashbars, aluminum hand guards and aluminum skid plate.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/ducati-desertx-dyno-test-2023/",
+    "usSourceUrl": "https://www.ducati.com/us/en/bikes/desertx/desertx-937",
+    "category": "Adventure",
+    "selectionReason": "Rally-inspired 21/18-inch-wheel adventure choice with a 937 cc V-twin."
+  },
+  {
+    "id": "honda-africa-twin-1100-stock",
+    "bikeId": "honda-africa-twin-1100",
+    "make": "Honda",
+    "name": "Africa Twin 1100 Adventure Sports ES",
+    "years": "2020 test",
+    "displacement": "1084 cc",
+    "configName": "Stock · Rider / Jett Tuning (2020)",
+    "shortName": "Stock (2020)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        23.0,
+        65.51
+      ],
+      [
+        3000,
+        32.5,
+        77.14
+      ],
+      [
+        3500,
+        40.6,
+        82.6
+      ],
+      [
+        4000,
+        47.6,
+        84.74
+      ],
+      [
+        4500,
+        56.2,
+        88.93
+      ],
+      [
+        5000,
+        64.3,
+        91.57
+      ],
+      [
+        5500,
+        72.6,
+        94.0
+      ],
+      [
+        6000,
+        79.0,
+        93.76
+      ],
+      [
+        6500,
+        85.9,
+        94.11
+      ],
+      [
+        7000,
+        89.5,
+        91.05
+      ],
+      [
+        7500,
+        92.3,
+        87.63
+      ],
+      [
+        7600,
+        92.5,
+        86.67
+      ],
+      [
+        8000,
+        92.2,
+        82.07
+      ]
+    ],
+    "source": {
+      "publisher": "Rider / Jett Tuning",
+      "url": "https://ridermagazine.com/2020-honda-africa-twin-crf1100l-adventure-sports-es-road-test-review/",
+      "imageUrl": "https://ridermagazine.com/wp-content/uploads/2020/07/2020-Honda-Africa-Twin-AS-Dyno.jpg",
+      "asset": "assets/charts/adv-africa.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons. Test model is the 2020 manual Adventure Sports ES, not a 2024+ dyno test or a DCT test."
+    },
+    "reportedPeaks": "92.0 hp @ 7,600 RPM · 69.5 lb-ft @ 6,300 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 560,
+    "weightBasis": "Rider measured 560 lb wet as tested with Honda aluminum panniers; the article also lists a lower corrected base-model weight. The 560 lb equipped test-bike value is used here.",
+    "weightSourceUrl": "https://ridermagazine.com/2020-honda-africa-twin-crf1100l-adventure-sports-es-road-test-review/",
+    "usSourceUrl": "https://powersports.honda.com/motorcycle/adventure/africa-twin",
+    "category": "Adventure",
+    "selectionReason": "Long-range adventure touring platform with a broad parallel-twin powerband."
+  },
+  {
+    "id": "suzuki-vstrom-800de-stock",
+    "bikeId": "suzuki-vstrom-800de",
+    "make": "Suzuki",
+    "name": "V-Strom 800DE",
+    "years": "2023 test",
+    "displacement": "776 cc",
+    "configName": "Stock · Cycle World (2023)",
+    "shortName": "Stock (2023)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        14.8,
+        52.69
+      ],
+      [
+        2500,
+        20.5,
+        58.39
+      ],
+      [
+        3000,
+        25.0,
+        59.34
+      ],
+      [
+        3500,
+        29.8,
+        60.63
+      ],
+      [
+        4000,
+        35.2,
+        62.66
+      ],
+      [
+        4500,
+        40.4,
+        63.93
+      ],
+      [
+        5000,
+        45.7,
+        65.09
+      ],
+      [
+        5500,
+        52.8,
+        68.36
+      ],
+      [
+        6000,
+        56.0,
+        66.46
+      ],
+      [
+        6500,
+        61.5,
+        67.37
+      ],
+      [
+        7000,
+        65.8,
+        66.94
+      ],
+      [
+        7500,
+        68.2,
+        64.75
+      ],
+      [
+        8000,
+        69.9,
+        62.22
+      ],
+      [
+        8500,
+        72.3,
+        60.57
+      ],
+      [
+        8540,
+        72.5,
+        60.45
+      ],
+      [
+        9000,
+        71.2,
+        56.33
+      ],
+      [
+        9500,
+        69.8,
+        52.32
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/suzuki-v-strom-800de-dyno-test-2023/",
+      "imageUrl": "https://www.cycleworld.com/resizer/10ao7Yg80TBnsN7erf25MA1rh3o=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/5IHJS2OI3VDEXINTP6FEQ2QY4M.jpg",
+      "asset": "assets/charts/adv-vstrom.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons."
+    },
+    "reportedPeaks": "72.21 hp @ 8,540 RPM · 50.15 lb-ft @ 5,530 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 507,
+    "weightBasis": "Cycle World measured wet weight: 507 lb on its automotive scales before the dyno test.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/suzuki-v-strom-800de-dyno-test-2023/",
+    "usSourceUrl": "https://suzukicycles.com/adventure/2026/v-strom-800de",
+    "category": "Adventure",
+    "selectionReason": "Practical mid-size adventure model with a 21-inch front wheel and useful low-rpm torque."
+  },
+  {
+    "id": "yamaha-tenere-700-stock",
+    "bikeId": "yamaha-tenere-700",
+    "make": "Yamaha",
+    "name": "Ténéré 700",
+    "years": "2025 test",
+    "displacement": "689 cc",
+    "configName": "Stock · Cycle World (2025)",
+    "shortName": "Stock (2025)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2000,
+        10.1,
+        35.96
+      ],
+      [
+        2500,
+        15.1,
+        43.01
+      ],
+      [
+        3000,
+        20.3,
+        48.18
+      ],
+      [
+        3500,
+        25.1,
+        51.07
+      ],
+      [
+        4000,
+        29.4,
+        52.34
+      ],
+      [
+        4500,
+        33.0,
+        52.22
+      ],
+      [
+        5000,
+        37.7,
+        53.69
+      ],
+      [
+        5500,
+        42.5,
+        55.03
+      ],
+      [
+        6000,
+        47.0,
+        55.78
+      ],
+      [
+        6500,
+        52.5,
+        57.52
+      ],
+      [
+        7000,
+        56.1,
+        57.07
+      ],
+      [
+        7500,
+        59.1,
+        56.11
+      ],
+      [
+        8000,
+        59.5,
+        52.96
+      ],
+      [
+        8500,
+        59.8,
+        50.1
+      ],
+      [
+        9000,
+        61.0,
+        48.26
+      ],
+      [
+        9190,
+        60.9,
+        47.19
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/yamaha-tenere-700-dyno-test-2025/",
+      "imageUrl": "https://www.cycleworld.com/resizer/17E2_RmKegmUul9ht9znQF_mRkU=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/4TAGFK47YRBQLALDZ7SE7FOHMA.jpg",
+      "asset": "assets/charts/adv-tenere.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons."
+    },
+    "reportedPeaks": "61.22 hp @ 9,190 RPM · 42.55 lb-ft @ 6,450 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 473,
+    "weightBasis": "Cycle World measured 473 lb wet with accessory crashbars fitted.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/yamaha-tenere-700-dyno-test-2025/",
+    "usSourceUrl": "https://yamahamotorsports.com/models/tenere-700",
+    "category": "Adventure",
+    "selectionReason": "Off-road-oriented middleweight CP2 benchmark with manageable power delivery."
+  },
+  {
+    "id": "ktm-890-adventure-r-stock",
+    "bikeId": "ktm-890-adventure-r",
+    "make": "KTM",
+    "name": "890 Adventure R",
+    "years": "2023 test",
+    "displacement": "889 cc",
+    "configName": "Stock · Cycle World (2023)",
+    "shortName": "Stock (2023)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        21.5,
+        61.24
+      ],
+      [
+        3000,
+        29.4,
+        69.78
+      ],
+      [
+        3500,
+        37.6,
+        76.5
+      ],
+      [
+        4000,
+        44.1,
+        78.51
+      ],
+      [
+        4500,
+        50.1,
+        79.28
+      ],
+      [
+        5000,
+        55.7,
+        79.33
+      ],
+      [
+        5500,
+        64.0,
+        82.86
+      ],
+      [
+        6000,
+        69.3,
+        82.25
+      ],
+      [
+        6500,
+        78.9,
+        86.44
+      ],
+      [
+        7000,
+        85.0,
+        86.47
+      ],
+      [
+        7500,
+        88.9,
+        84.41
+      ],
+      [
+        8000,
+        92.1,
+        81.98
+      ],
+      [
+        8450,
+        93.1,
+        78.46
+      ],
+      [
+        8500,
+        92.8,
+        77.74
+      ],
+      [
+        9000,
+        89.0,
+        70.42
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/ktm-890-adventure-r-dyno-test-2023/",
+      "imageUrl": "https://www.cycleworld.com/resizer/Qb9yS_HHCv-KNKWfw6E7WveHv2w=/1440x0/filters:focal(754x397:764x407)/cloudfront-us-east-1.images.arcpublishing.com/octane/SFMXG6MTYJAMPI2MYFPZJACL6I.jpg",
+      "asset": "assets/charts/adv-ktm890.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons."
+    },
+    "reportedPeaks": "93.28 hp @ 8,450 RPM · 64.37 lb-ft @ 6,710 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 477,
+    "weightBasis": "Cycle World measured wet weight: 477 lb on its automotive scales.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/ktm-890-adventure-r-dyno-test-2023/",
+    "usSourceUrl": "https://www.ktm.com/en-us/models/adventure.html",
+    "category": "Adventure",
+    "selectionReason": "Explicitly requested performance adventure bike with strong off-road focus."
+  },
+  {
+    "id": "triumph-tiger-900-rally-pro-stock",
+    "bikeId": "triumph-tiger-900-rally-pro",
+    "make": "Triumph",
+    "name": "Tiger 900 Rally Pro (2020–23)",
+    "years": "2020 test",
+    "displacement": "888 cc",
+    "configName": "Stock · Rider / Jett Tuning (2020)",
+    "shortName": "Stock (2020)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        24.3,
+        69.22
+      ],
+      [
+        3000,
+        30.2,
+        71.68
+      ],
+      [
+        3500,
+        35.4,
+        72.02
+      ],
+      [
+        4000,
+        42.8,
+        76.19
+      ],
+      [
+        4500,
+        48.3,
+        76.43
+      ],
+      [
+        5000,
+        53.7,
+        76.48
+      ],
+      [
+        5500,
+        59.3,
+        76.78
+      ],
+      [
+        6000,
+        65.7,
+        77.97
+      ],
+      [
+        6500,
+        72.9,
+        79.86
+      ],
+      [
+        7000,
+        78.7,
+        80.06
+      ],
+      [
+        7500,
+        84.8,
+        80.51
+      ],
+      [
+        8000,
+        87.1,
+        77.53
+      ],
+      [
+        8500,
+        88.9,
+        74.48
+      ],
+      [
+        8800,
+        90.0,
+        72.83
+      ],
+      [
+        9000,
+        90.0,
+        71.21
+      ],
+      [
+        9500,
+        88.6,
+        66.41
+      ]
+    ],
+    "source": {
+      "publisher": "Rider / Jett Tuning",
+      "url": "https://ridermagazine.com/2020-triumph-tiger-900-rally-pro-tour-test-review/",
+      "imageUrl": "https://ridermagazine.com/wp-content/uploads/2020/09/2020-Triumph-Tiger-900-Dyno-Chart-CHART.jpg",
+      "asset": "assets/charts/adv-tiger.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons. This is the 2020–2023 engine generation. Triumph increased output for 2024; these curves must not be labeled as a 2024+ test."
+    },
+    "reportedPeaks": "89.7 hp @ 8,800 RPM · 59.4 lb-ft @ 7,300 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 476,
+    "weightBasis": "Rider lists 476 lb wet for its 2020 Tiger 900 Rally Pro.",
+    "weightSourceUrl": "https://ridermagazine.com/2020-triumph-tiger-900-rally-pro-tour-test-review/",
+    "usSourceUrl": "https://www.triumphmotorcycles.com/motorcycles/adventure/tiger-900/models",
+    "category": "Adventure",
+    "selectionReason": "Three-cylinder middleweight touring and trail option; older-generation test explicitly identified."
+  },
+  {
+    "id": "royal-enfield-himalayan-450-stock",
+    "bikeId": "royal-enfield-himalayan-450",
+    "make": "Royal Enfield",
+    "name": "Himalayan 450",
+    "years": "2024 test",
+    "displacement": "452 cc",
+    "configName": "Stock · Cycle World (2024)",
+    "shortName": "Stock (2024)",
+    "upgraded": false,
+    "parts": [
+      "Factory ECU",
+      "Stock exhaust",
+      "Stock intake"
+    ],
+    "points": [
+      [
+        2500,
+        9.1,
+        25.92
+      ],
+      [
+        3000,
+        12.8,
+        30.38
+      ],
+      [
+        3500,
+        16.1,
+        32.76
+      ],
+      [
+        4000,
+        18.9,
+        33.65
+      ],
+      [
+        4500,
+        22.0,
+        34.81
+      ],
+      [
+        5000,
+        24.9,
+        35.46
+      ],
+      [
+        5500,
+        28.3,
+        36.64
+      ],
+      [
+        6000,
+        30.9,
+        36.67
+      ],
+      [
+        6500,
+        33.7,
+        36.92
+      ],
+      [
+        7000,
+        36.1,
+        36.72
+      ],
+      [
+        7500,
+        37.3,
+        35.41
+      ],
+      [
+        7700,
+        37.5,
+        34.68
+      ],
+      [
+        8000,
+        37.1,
+        33.02
+      ],
+      [
+        8500,
+        36.2,
+        30.33
+      ]
+    ],
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/royal-enfield-himalayan-450-dyno-test-2024/",
+      "imageUrl": "https://www.cycleworld.com/resizer/uXLkrqIv1dMCcMLV4CZPqYeYoP0=/1440x0/smart/cloudfront-us-east-1.images.arcpublishing.com/octane/RUF6EYIHJZAYXGPH57Y6XVAICA.jpg",
+      "asset": "assets/charts/adv-himalayan.jpg",
+      "method": "Horsepower sampled from the published red stock power trace at approximately 500 RPM intervals and rounded to 0.1 hp. Torque is derived as hp × 7120.9092 ÷ RPM (N·m). Readings are approximate; printed peak metadata is preserved separately.",
+      "caveat": "Approximate digitized rear-wheel chart values; no original run file was available. Cross-dyno results and accessory weights are not controlled head-to-head comparisons."
+    },
+    "reportedPeaks": "37.44 hp @ 7,700 RPM · 27.38 lb-ft @ 5,840 RPM",
+    "notes": "Stock engine, ECU, intake and exhaust reference from the identified publication. The weight is editable and its test/accessory basis is preserved.",
+    "weightLb": 441,
+    "weightBasis": "Cycle World measured wet weight: 441 lb on its automotive scales.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/royal-enfield-himalayan-450-dyno-test-2024/",
+    "usSourceUrl": "https://www.royalenfield.com/us/en/motorcycles/classic-models/",
+    "category": "Adventure",
+    "selectionReason": "Accessible smaller-displacement adventure option and contrast to the KTM 390."
+  }
+]

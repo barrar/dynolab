@@ -1,0 +1,441 @@
+[
+  {
+    "id": "aprilia-tuareg660-stock",
+    "bikeId": "aprilia-tuareg660",
+    "make": "Aprilia",
+    "name": "Tuareg 660",
+    "years": "2022 Cycle World test",
+    "displacement": "659 cc",
+    "weightLb": 459,
+    "weightLabel": "660 · 2022 measured",
+    "weightBasis": "Cycle World measured 459 lb wet on its 2022 Tuareg 660.",
+    "weightSourceUrl": "https://www.cycleworld.com/bikes/aprilia-tuareg-660-dyno-test-2022/",
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/bikes/aprilia-tuareg-660-dyno-test-2022/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/FUSK6RJ4SZEBBGB5V7SEG42LNQ.jpg",
+      "asset": "assets/charts/exp-tuareg-stock.jpg",
+      "method": "Approximate samples read from the published power trace. Torque is derived from horsepower and RPM; no extrapolation or peak-based curve synthesis. Original graph, units and reported peaks are retained.",
+      "caveat": "Publisher dyno test; different dynos, correction standards, years, tires and equipment are not a controlled comparison."
+    },
+    "reportedPeaks": "69.94 hp @ 10,660 RPM · 44.27 lb-ft @ 6,680 RPM",
+    "points": [
+      [
+        2500,
+        16.0,
+        45.57381888
+      ],
+      [
+        3000,
+        20.0,
+        47.472728000000004
+      ],
+      [
+        3500,
+        25.0,
+        50.863637142857144
+      ],
+      [
+        4000,
+        29.0,
+        51.6265917
+      ],
+      [
+        4500,
+        32.0,
+        50.63757653333333
+      ],
+      [
+        5000,
+        36.9,
+        52.552309896
+      ],
+      [
+        5500,
+        43.0,
+        55.67256283636364
+      ],
+      [
+        6000,
+        48.0,
+        56.9672736
+      ],
+      [
+        6500,
+        53.3,
+        58.391455439999994
+      ],
+      [
+        7000,
+        56.4,
+        57.37418269714286
+      ],
+      [
+        7500,
+        58.2,
+        55.258255392
+      ],
+      [
+        8000,
+        61.5,
+        54.741989475000004
+      ],
+      [
+        8500,
+        65.2,
+        54.62156233411765
+      ],
+      [
+        9000,
+        67.1,
+        53.09033414666666
+      ],
+      [
+        9500,
+        68.0,
+        50.97071848421052
+      ],
+      [
+        10000,
+        68.0,
+        48.422182559999996
+      ],
+      [
+        10500,
+        68.2,
+        46.25200070857143
+      ],
+      [
+        11000,
+        69.1,
+        44.73225688363636
+      ]
+    ],
+    "configName": "Stock · 2022 Cycle World test",
+    "shortName": "Stock",
+    "category": "More bikes",
+    "editorialPick": false,
+    "notes": "Exact test year is retained. Model selection changes mass only.",
+    "parts": [
+      "Factory hardware"
+    ],
+    "upgraded": false
+  },
+  {
+    "id": "ktm790-adventure-stock",
+    "bikeId": "ktm-790",
+    "make": "KTM",
+    "name": "790",
+    "years": "2020 Adventure R test",
+    "displacement": "799 cc",
+    "weightLb": 469,
+    "weightLabel": "Adventure R · measured reference",
+    "weightBasis": "Rider measured 469 lb wet in its 2019 790 Adventure/R test; this is a separate mass reference for the 2020 dyno.",
+    "weightSourceUrl": "https://ridermagazine.com/2019-ktm-790-adventure-r-first-ride-review/",
+    "source": {
+      "publisher": "Cycle World",
+      "url": "https://www.cycleworld.com/story/bikes/how-much-power-does-the-2020-ktm-790-adventure-r-make/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/H2O523HIYNHNNJSKSCC4OMBD4U.jpg",
+      "asset": "assets/charts/exp-ktm790-stock.jpg",
+      "method": "Approximate samples read from the published power trace. Torque is derived from horsepower and RPM; no extrapolation or peak-based curve synthesis. Original graph, units and reported peaks are retained.",
+      "caveat": "Publisher dyno test; different dynos, correction standards, years, tires and equipment are not a controlled comparison."
+    },
+    "reportedPeaks": "83.37 hp @ 8,450 RPM · 57.71 lb-ft @ 6,790 RPM",
+    "points": [
+      [
+        2500,
+        12.1,
+        34.465200528
+      ],
+      [
+        3000,
+        23.1,
+        54.83100084
+      ],
+      [
+        3500,
+        31.1,
+        63.27436460571429
+      ],
+      [
+        4000,
+        37.5,
+        66.75852375000001
+      ],
+      [
+        4500,
+        42.5,
+        67.25303133333334
+      ],
+      [
+        5000,
+        45.9,
+        65.369946456
+      ],
+      [
+        5500,
+        52.5,
+        67.97231509090909
+      ],
+      [
+        6000,
+        59.0,
+        70.02227380000001
+      ],
+      [
+        6500,
+        67.7,
+        74.16700812923077
+      ],
+      [
+        7000,
+        75.1,
+        76.39718298857142
+      ],
+      [
+        7500,
+        78.9,
+        74.911964784
+      ],
+      [
+        8000,
+        81.9,
+        72.900307935
+      ],
+      [
+        8500,
+        83.0,
+        69.53358395294117
+      ],
+      [
+        9000,
+        80.0,
+        63.296970666666674
+      ],
+      [
+        9500,
+        77.0,
+        57.71684298947369
+      ]
+    ],
+    "configName": "Stock · 2020 Adventure R test",
+    "shortName": "Stock",
+    "category": "More bikes",
+    "editorialPick": false,
+    "notes": "Exact test year is retained. Model selection changes mass only.",
+    "parts": [
+      "Factory hardware"
+    ],
+    "upgraded": false
+  },
+  {
+    "id": "kawasaki-klr650-stock",
+    "bikeId": "kawasaki-klr650",
+    "make": "Kawasaki",
+    "name": "KLR650",
+    "years": "2022 fuel-injected test",
+    "displacement": "652 cc",
+    "weightLb": 456.2,
+    "weightLabel": "Standard · 2022 OEM",
+    "weightBasis": "2022 KLR650: 456.2 lb curb, operating fluids and more than 90% fuel; California equipment adds mass.",
+    "weightSourceUrl": "https://www.kawasaki.com/en-us/products/ProductSpecSheetPDF/2022-klr650-abs",
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/story/tests/2022-kawasaki-klr650-dyno-test/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/BKSS5BE5BBCS3CFV75NKE2IO4A.jpg",
+      "asset": "assets/charts/exp-klr-stock.jpg",
+      "method": "Approximate samples read from the published power trace. Torque is derived from horsepower and RPM; no extrapolation or peak-based curve synthesis. Original graph, units and reported peaks are retained.",
+      "caveat": "Publisher dyno test; different dynos, correction standards, years, tires and equipment are not a controlled comparison."
+    },
+    "reportedPeaks": "34.6 hp @ 5,900 RPM · 33.5 lb-ft @ 4,700 RPM",
+    "points": [
+      [
+        2500,
+        14.0,
+        39.87709152
+      ],
+      [
+        3000,
+        18.0,
+        42.7254552
+      ],
+      [
+        3500,
+        21.0,
+        42.7254552
+      ],
+      [
+        4000,
+        24.8,
+        44.14963704
+      ],
+      [
+        4500,
+        28.9,
+        45.732061306666665
+      ],
+      [
+        5000,
+        32.0,
+        45.57381888
+      ],
+      [
+        5500,
+        34.0,
+        44.02016596363636
+      ],
+      [
+        6000,
+        34.6,
+        41.06390972
+      ],
+      [
+        6500,
+        33.5,
+        36.70007049230769
+      ]
+    ],
+    "configName": "Stock · 2022 fuel-injected test",
+    "shortName": "Stock",
+    "category": "More bikes",
+    "editorialPick": false,
+    "notes": "Exact test year is retained. Model selection changes mass only.",
+    "parts": [
+      "Factory hardware"
+    ],
+    "upgraded": false
+  },
+  {
+    "id": "suzuki-drz400-stock",
+    "bikeId": "suzuki-drz400",
+    "make": "Suzuki",
+    "name": "DR-Z400",
+    "years": "2022 Dirt Rider test",
+    "displacement": "398 cc · carbureted",
+    "weightLb": 324,
+    "weightLabel": "S · 2022 measured",
+    "weightBasis": "Dirt Rider measured 324 lb wet on its 2022 DR-Z400S.",
+    "weightSourceUrl": "https://www.dirtrider.com/story/tests/suzuki-dr-z400s-ride-review-2022/",
+    "source": {
+      "publisher": "Dirt Rider",
+      "url": "https://www.dirtrider.com/story/tests/2022-suzuki-dr-z400s-dyno-test/",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/MKYHEVA3PFEVZAHVQKNJEAYM7U.jpg",
+      "asset": "assets/charts/exp-drz400-stock.jpg",
+      "method": "Approximate samples read from the published power trace. Torque is derived from horsepower and RPM; no extrapolation or peak-based curve synthesis. Original graph, units and reported peaks are retained.",
+      "caveat": "Publisher dyno test; different dynos, correction standards, years, tires and equipment are not a controlled comparison."
+    },
+    "reportedPeaks": "31.8 hp @ 8,400 RPM · 24.3 lb-ft @ 5,800 RPM",
+    "points": [
+      [
+        3000,
+        9.0,
+        21.3627276
+      ],
+      [
+        3500,
+        12.5,
+        25.431818571428572
+      ],
+      [
+        4000,
+        16.0,
+        28.4836368
+      ],
+      [
+        4500,
+        18.0,
+        28.4836368
+      ],
+      [
+        5000,
+        21.5,
+        30.61990956
+      ],
+      [
+        5500,
+        25.4,
+        32.88565339636364
+      ],
+      [
+        6000,
+        28.0,
+        33.2309096
+      ],
+      [
+        6500,
+        29.9,
+        32.75618232
+      ],
+      [
+        7000,
+        30.9,
+        31.433727754285712
+      ],
+      [
+        7500,
+        31.5,
+        29.907818640000002
+      ],
+      [
+        8000,
+        31.7,
+        28.216602705
+      ],
+      [
+        8500,
+        31.8,
+        26.640577948235293
+      ],
+      [
+        9000,
+        30.5,
+        24.131970066666668
+      ],
+      [
+        9500,
+        28.7,
+        21.512641477894736
+      ]
+    ],
+    "configName": "Stock · 2022 Dirt Rider test",
+    "shortName": "Stock",
+    "category": "More bikes",
+    "editorialPick": false,
+    "notes": "Exact test year is retained. Model selection changes mass only.",
+    "parts": [
+      "Factory hardware"
+    ],
+    "upgraded": false
+  },
+  {
+    "id": "honda-cb500x-reference",
+    "bikeId": "honda-cb500x",
+    "make": "Honda",
+    "name": "CB500X",
+    "years": "2019–2023 reference",
+    "displacement": "471 cc",
+    "weightLb": 439,
+    "weightLabel": "CB500X ABS · 2023 OEM",
+    "weightBasis": "Honda specifies 439 lb curb including standard equipment, fluids and full fuel.",
+    "weightSourceUrl": "https://powersports.honda.com/api/custom/downloads/specs?category=adventure&segment=motorcycle&trim=CB500XAP&year=2023",
+    "source": {
+      "publisher": "Honda",
+      "url": "https://powersports.honda.com/api/custom/downloads/specs?category=adventure&segment=motorcycle&trim=CB500XAP&year=2023",
+      "imageUrl": "",
+      "asset": "",
+      "method": "OEM specifications only. No verified stock RPM curve located in the reviewed sources.",
+      "caveat": "Publisher dyno test; different dynos, correction standards, years, tires and equipment are not a controlled comparison."
+    },
+    "reportedPeaks": "No verified measured dyno peaks; OEM weight reference only.",
+    "points": [],
+    "configName": "Stock · 2019–2023 reference",
+    "shortName": "Stock",
+    "category": "More bikes",
+    "editorialPick": false,
+    "notes": "Exact test year is retained. Model selection changes mass only.",
+    "parts": [
+      "Factory hardware"
+    ],
+    "upgraded": false
+  }
+]
